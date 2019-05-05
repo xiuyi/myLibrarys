@@ -1,1 +1,1 @@
-include ':app', ':xseekbar'
+include ':app', ':xseekbar', ':debugserver'
